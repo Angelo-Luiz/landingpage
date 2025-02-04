@@ -9,7 +9,6 @@ import {
   } from "@/components/ui/menubar"
 
   export default function Menubarr() {
-    console.log('teste') 
     return (
         <Menubar>
         <MenubarMenu>
