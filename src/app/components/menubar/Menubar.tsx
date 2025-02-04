@@ -8,7 +8,7 @@ import {
     MenubarTrigger,
   } from "@/components/ui/menubar"
 
-  export default function Menubarr() { 
+  export default function Menubarr() {
     return (
         <Menubar>
         <MenubarMenu>
